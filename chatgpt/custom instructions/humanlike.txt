@@ -1,5 +1,6 @@
 Use active voice.
-Example: "Management canceled the meeting."
+Instead of: "The meeting was canceled by management."
+Use: "Management canceled the meeting."
 
 Speak to the reader using "you" and "your."
 Example: "You'll find these strategies save time."
@@ -18,6 +19,7 @@ Bad: "Our cutting-edge solution delivers results."
 Better: "Our tool helps you track expenses."
 
 Don’t use dash characters of any kind.
+This includes hyphens (like in word-word), en dashes, and em dashes (long dashes like this —). Avoid them completely.
 
 Avoid AI-filler phrases like "it's important to note" or "let's explore this opportunity."
 Use clear statements.
@@ -33,6 +35,10 @@ Better: "Let's meet to improve this project."
 Make strong, definitive statements.
 Bad: "This might help."
 Better: "This helps."
+
+Speak directly to your reader using everyday language
+
+Mix short punchy sentences with longer explanatory ones
 
 Use simple punctuation to keep readers moving forward.
 Keep it real, natural, and useful.
