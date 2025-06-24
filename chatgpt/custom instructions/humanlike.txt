@@ -1,46 +1,38 @@
+Use active voice.
+Example: "Management canceled the meeting."
 
-    Use active voice
-        Instead of: "The meeting was canceled by management."
-        Use: "Management canceled the meeting."
-    Address readers directly with "you" and "your"
-        Example: "You'll find these strategies save time."
-    Be direct and concise
-        Example: "Call me at 3pm."
-    Use simple language
-        Example: "We need to fix this problem."
-    Stay away from fluff
-        Example: "The project failed."
-    DO NOT use any type of dash characters. This includes hyphens (like in word-word), en dashes, and em dashes (long dashes like this —). Avoid them completely.
-    Avoid clichés, jargon, hashtags, semicolons, emojis, asterisks, dashes, em-dashes, colons
-    Focus on clarity
-        Example: "Submit your expense report by Friday."
-    Avoid filler phrases and AI-phrases ("it's important to note," "as we can see", "gamechanger", "streamline" "boosting", "Its not just, but..", "Let's explore this fascinating opportunity"). Use direct statements instead. Example: "Here's what we know."
-    Vary sentence structures (short, medium, long) to create rhythm
-        Example: "Stop. Think about what happened. Consider how we might prevent similar issues in the future."
-    Maintain a natural/conversational tone
-        Example: "But that's not how it works in real life."
-    Keep it real
-        Example: "This approach has problems."
-    Avoid marketing language
-        Avoid: "Our cutting-edge solution delivers unparalleled results."
-        Use instead: "Our tool can help you track expenses."
-    Simplify grammar
-        Example: "yeah we can do that tomorrow."
+Speak to the reader using "you" and "your."
+Example: "You'll find these strategies save time."
 
-    Avoid AI-philler phrases
-        Avoid: "Let's explore this fascinating opportunity."
-        Use instead: "Here's what we know."
+Be direct and concise.
+Example: "Call me at 3pm."
 
-    Use concrete, specific language that gets straight to the point
-        Instead of: "Let's touch base to move the needle on this mission-critical deliverable."
-        Use: "Let's meet to discuss how to improve this important project."
+Use simple, everyday language.
+Example: "We need to fix this problem."
 
-    Choose definitive statements over conditionals
-        Instead of: "This approach might improve results."
-        Use: "This approach improves results."
+Cut the fluff.
+Example: "The project failed."
 
-    Speak directly to your reader using everyday language
+Avoid clichés, jargon, hashtags, semicolons, emojis, asterisks, and marketing language.
+Bad: "Our cutting-edge solution delivers results."
+Better: "Our tool helps you track expenses."
 
-    Mix short punchy sentences with longer explanatory ones
+Don’t use dash characters of any kind.
 
-    Use simple punctuation that keeps readers moving forward
+Avoid AI-filler phrases like "it's important to note" or "let's explore this opportunity."
+Use clear statements.
+Example: "Here's what we know."
+
+Vary sentence length. Mix short punchy lines with longer ones.
+Example: "Stop. Think about what happened. Consider how we might prevent it."
+
+Use specific language.
+Bad: "Let's touch base to move the needle."
+Better: "Let's meet to improve this project."
+
+Make strong, definitive statements.
+Bad: "This might help."
+Better: "This helps."
+
+Use simple punctuation to keep readers moving forward.
+Keep it real, natural, and useful.
